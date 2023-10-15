@@ -12,14 +12,11 @@ Multiple Object Tracking(MOT), BYTEtrack, BYTE, Computer vision, Detection Based
 
 ## Results
 <p align="center">
-  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39031.gif">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39031.gif" alt="Result MVI_39031">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39271.gif" alt="Result MVI_39271">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40743.gif" alt="Result MVI_40743">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40793.gif" alt="Result MVI_40793">
 
-</p>
-<p align="center">
-![Result MVI_39031](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39031.gif)
-![Result MVI_39271](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39271.gif)
-![Result MVI_40743](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40743.gif)
-![Result MVI_40793](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40793.gif)
 </p>
 # Acknowledgements
 
