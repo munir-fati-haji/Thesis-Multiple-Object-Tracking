@@ -16,7 +16,22 @@ Multiple Object Tracking(MOT), BYTEtrack, BYTE, Computer vision, Detection Based
   <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39271.gif" alt="Result MVI_39271">
   <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40743.gif" alt="Result MVI_40743">
   <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40793.gif" alt="Result MVI_40793">
-
 </p>
+
+### Lossses
+
+<p align="center">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/plots/loss.png" alt="Result Losses">
+</p>
+
+### Evaluation of Model
+
+<p align="center">
+  <img src="https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/plots/metrics.png" alt="Result Metrics">
+</p>
+
 # Acknowledgements
+- dr. Andrzej Kordecki
+- [Roboflow](https://roboflow.com/)
+- [Ultralytics](https://ultralytics.com/yolov8) 
 
