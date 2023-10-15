@@ -12,10 +12,10 @@ Multiple Object Tracking(MOT), BYTEtrack, BYTE, Computer vision, Detection Based
 
 ## Results
 
-![](results\videos\MVI_39031.gif)
-![](results\videos\MVI_39271.gif)
-![](results\videos\MVI_40743.gif)
-![](results\videos\MVI_40793.gif)
+![](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39031.gif)
+![](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39271.gif)
+![](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40743.gif)
+![](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40793.gif)
 
 # Acknowledgements
 
