@@ -11,11 +11,11 @@ In terms of tracking, the BYTEtrack algorithm is chosen due to its ability to ha
 Multiple Object Tracking(MOT), BYTEtrack, BYTE, Computer vision, Detection Based Tracking (DBT), YOLOv8, Autonomous Vehicle, Object Detection, Object Tracking, UA-DETRAC.
 
 ## Results
-
+<p align="center">
 ![Result MVI_39031](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39031.gif)
 ![Result MVI_39271](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_39271.gif)
 ![Result MVI_40743](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40743.gif)
 ![Result MVI_40793](https://github.com/munir-fati-haji/Thesis-Multiple-Object-Tracking/blob/main/results/videos/MVI_40793.gif)
-
+</p>
 # Acknowledgements
 
